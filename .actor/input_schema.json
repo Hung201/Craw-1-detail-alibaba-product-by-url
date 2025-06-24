@@ -1,0 +1,17 @@
+{
+    "title": "Daisan Alibaba",
+    "type": "object",
+    "schemaVersion": 1,
+    "properties": {
+        "productUrl": {
+            "title": "Product URL",
+            "type": "string",
+            "description": "Link sản phẩm Alibaba cần lấy thông tin.",
+            "editor": "textfield",
+            "prefill": "https://www.alibaba.com/product-detail/your-product-id.html"
+        }
+    },
+    "required": [
+        "productUrl"
+    ]
+}

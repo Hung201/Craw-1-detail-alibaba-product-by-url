@@ -1,0 +1,12 @@
+{
+    "actorSpecification": 1,
+    "name": "daisan-alibaba",
+    "title": "Daisan Alibaba",
+    "description": "Daisan Alibaba.",
+    "version": "0.0",
+    "meta": {
+        "templateId": "js-crawlee-cheerio"
+    },
+    "input": "./input_schema.json",
+    "dockerfile": "./Dockerfile"
+}
